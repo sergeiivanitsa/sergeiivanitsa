@@ -6,8 +6,8 @@
 * [Бот-ассистент](https://github.com/sergeiivanitsa/homework_bot)
 * [Сайт отзывов на произведения YaMDb](https://github.com/sergeiivanitsa/api_yamdb)
 
-####Моя почта
+#### Моя почта
 📩sergei-ivanitsa@yandex.ru
 
-####Мой телеграмм
- sergivanitsa
+#### Мой телеграмм
+![Телеграмм](https://i.ibb.co/8jq2zQ8/telegram-icon.png "Телеграмм") sergivanitsa
