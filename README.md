@@ -10,4 +10,4 @@
 📩sergei-ivanitsa@yandex.ru
 
 #### Мой телеграмм
-![Телеграмм](https://i.ibb.co/8jq2zQ8/telegram-icon.png "Телеграмм") sergivanitsa
+![Телеграмм](https://i.ibb.co/vkjS79W/telegram-icon-icons-com-72055.png "Телеграмм") sergivanitsa
