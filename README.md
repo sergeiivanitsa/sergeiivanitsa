@@ -6,6 +6,8 @@
 * [Бот-ассистент](https://github.com/sergeiivanitsa/homework_bot)
 * [Сайт отзывов на произведения YaMDb](https://github.com/sergeiivanitsa/api_yamdb)
 
-Связь со мной
+####Моя почта
 📩sergei-ivanitsa@yandex.ru
-✈️sergivanitsa
+
+####Мой телеграмм
+ sergivanitsa
