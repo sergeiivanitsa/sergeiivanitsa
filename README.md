@@ -5,6 +5,7 @@
 * [Социальная сеть Yatube](https://github.com/sergeiivanitsa/yatube_project)
 * [Бот-ассистент](https://github.com/sergeiivanitsa/homework_bot)
 * [Сайт отзывов на произведения YaMDb](https://github.com/sergeiivanitsa/api_yamdb)
+* [Социальная сеть для любителей кулинарии](https://github.com/sergeiivanitsa/foodgram-project-react)
 
 #### Моя почта
 📩sergei-ivanitsa@yandex.ru
