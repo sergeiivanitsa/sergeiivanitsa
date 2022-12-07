@@ -1,7 +1,6 @@
 # Привет всем 👋 Я — Сергей
 
 ## Ознакомьтесь с моими проектами:
-* [Социальная сеть Yatube](https://github.com/sergeiivanitsa/yatube_project) [Django, DRF, Pillow]
 * [Бот-ассистент](https://github.com/sergeiivanitsa/homework_bot) [python-telegram-bot]
 * [Сайт отзывов на произведения YaMDb](https://github.com/sergeiivanitsa/api_yamdb) [DRF, PostgreSQL, Docker, CI/CD]
 * [Социальная сеть для любителей кулинарии](https://github.com/sergeiivanitsa/foodgram-project-react) [DRF, PostgreSQL, Docker, Nginx]
