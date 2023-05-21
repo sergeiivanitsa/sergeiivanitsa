@@ -6,8 +6,8 @@
 * [Социальная сеть для любителей кулинарии](https://github.com/sergeiivanitsa/foodgram-project-react) [DRF, PostgreSQL, Docker, Nginx]
 
 ## Тестовые задания
-* [Мультифункциональный бот: прогноз погоды, конвертер валют, создает опросы, отправляет картинки] (https://github.com/sergeiivanitsa/multibot) [Aiogram, Aiohttp]
-* [Древовидное меню в Django] (https://github.com/sergeiivanitsa/template_tag_menu) [Django]
+* [Мультифункциональный бот: прогноз погоды, конвертер валют, создает опросы, отправляет картинки](https://github.com/sergeiivanitsa/multibot) [Aiogram, Aiohttp]
+* [Древовидное меню в Django](https://github.com/sergeiivanitsa/template_tag_menu) [Django]
 
 #### Моя почта
 📩sergei-ivanitsa@yandex.ru
